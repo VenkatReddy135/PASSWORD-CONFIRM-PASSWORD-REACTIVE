@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "userName": "venkat",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 1
+    },
+    {
+      "userName": "feroz",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "id": 2
+    },
+    {
+      "userName": "venkat",
+      "password": "123",
+      "confirmPassword": "123",
+      "id": 3
+    },
+    {
+      "userName": "dfdf",
+      "password": "321",
+      "confirmPassword": "321",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
